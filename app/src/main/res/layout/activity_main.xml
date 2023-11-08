@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btnAddPatient"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/addPatient"
+        android:layout_marginBottom="16dp" />
+
+    <Button
+        android:id="@+id/btnViewPatients"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/showPatients"
+        android:layout_marginBottom="16dp" />
+
+
+    <Button
+        android:id="@+id/btnDailyView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Wybierz dzień"
+        android:layout_marginBottom="16dp" />
+
+    <Button
+        android:id="@+id/btnSearchView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Wyszukaj po nazwisku"
+        android:layout_marginBottom="16dp" />
+
+</LinearLayout>

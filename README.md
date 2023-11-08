@@ -41,18 +41,32 @@ git clone https://github.com/your-username/patient-manager.git
 
 ## Screenshots
 
-Main view with buttons and their functionalities.
+Main view with all buttons and their functionalities.
 
-![image](https://github.com/posinski1210/patientManager/assets/114942623/87cad1c0-e4b2-42c2-909f-78b41500dd07)
+![glowny](https://github.com/posinski1210/patientManager/assets/114942623/cfeabd8e-2736-4e4c-803a-4cd5368933e4)
 
-Adding patients view. 
+Adding patient visit view.
 
-![image](https://github.com/posinski1210/patientManager/assets/114942623/f05c4f4a-e6fd-429a-97de-6e4cc9c58cbc)
+![dodawanie](https://github.com/posinski1210/patientManager/assets/114942623/cebe9621-fb1c-4640-aaf9-2a95807865e9)
 
-Views where u can choose date and time of visit.
+Views where u pick date and time of visit.
 
-![image](https://github.com/posinski1210/patientManager/assets/114942623/68ebc938-e7b5-4266-89e5-7ca467a4b856)
-![image](https://github.com/posinski1210/patientManager/assets/114942623/c17a1376-2182-4ec5-9006-0b7887abf9ab)
+![kalendarz](https://github.com/posinski1210/patientManager/assets/114942623/c4d41d86-4cc5-44fa-8b0c-aec82c6d29c0)
+![zegar](https://github.com/posinski1210/patientManager/assets/114942623/ce834063-d934-4158-bd80-37f6c969ff8a)
+
+
+
+View all patients.
+
+![wszyscy](https://github.com/posinski1210/patientManager/assets/114942623/726292e5-7e04-4748-be5e-2eb1c69a4515)
+
+
+Slide right to edit and left to delete patient.
+
+![usuwanie](https://github.com/posinski1210/patientManager/assets/114942623/1b117d41-8e1e-4f2e-a0ea-1a600c5549b0)
+![edytowanie](https://github.com/posinski1210/patientManager/assets/114942623/4e80639d-957a-4e3d-9be0-65124f7a2983)
+
+
 
 
 
